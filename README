@@ -1,1 +1,5 @@
-this is for token check
+(1) this is for token check
+(2) you can check token file with path
+(3) you can get Facebook page token with facebook access token
+(4) you can see permissions of you Facebook access token they can send messages in convo or not they can comments or not
+(5) you can Get Uid and conversation name while using you Facebook access token
